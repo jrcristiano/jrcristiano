@@ -1,4 +1,4 @@
-# Olá! Eu sou Cristiano Júnior.
+# Olá! Eu sou Cristiano.
 ### Estudando Java & Spring Framework atualmente
 
  <div>
