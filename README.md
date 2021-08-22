@@ -1,5 +1,5 @@
 # Olá! Eu sou Cristiano.
-### Estudando Java & Spring Framework atualmente
+### Atualmente estudando Java & Spring Framework
 
  <div>
   <a href="https://www.linkedin.com/in/cristiano-junior-508326b6/">
