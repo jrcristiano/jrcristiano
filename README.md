@@ -1,5 +1,5 @@
 # Olá! Eu sou Cristiano.
-### Atualmente solidificando a base em Java para iniciar com Spring Framework
+### Atualmente fazendo formação arquiteto PHP na Alura
 
  <div>
   <a target="_blank" href="https://www.linkedin.com/in/cristiano-junior-508326b6/">
