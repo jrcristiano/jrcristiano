@@ -1,5 +1,5 @@
 # Olá! Meu nome é Cristiano.
-### Atualmente fazendo a formação arquiteto PHP na Alura
+### Estudante de análise e desenvolvimento de sistemas na faculdade Impacta (2019 - 2022)
 
  <div>
   <a target="_blank" href="https://www.linkedin.com/in/cristiano-junior-508326b6/">
