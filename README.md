@@ -1,4 +1,4 @@
-# Olá! Eu meu nome é Cristiano.
+# Olá! Meu nome é Cristiano.
 ### Atualmente fazendo a formação arquiteto PHP na Alura
 
  <div>
