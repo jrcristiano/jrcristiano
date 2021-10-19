@@ -1,5 +1,5 @@
 # Olá! Meu nome é Cristiano.
-### Estudante de análise e desenvolvimento de sistemas na faculdade Impacta (2019 - 2022)
+### Estudando Quasar Framework atualmente
 
  <div>
   <a target="_blank" href="https://www.linkedin.com/in/cristiano-junior-508326b6/">
