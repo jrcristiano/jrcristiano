@@ -1,6 +1,4 @@
 # Olá! Meu nome é Cristiano.
-### Atualmente estudando Front-end
-
  <div>
   <a target="_blank" href="https://www.linkedin.com/in/cristiano-junior-508326b6/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrcristiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
