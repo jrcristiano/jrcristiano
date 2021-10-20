@@ -1,5 +1,5 @@
 # Olá! Meu nome é Cristiano.
-### Estudando Quasar Framework atualmente
+### Atualmente estudando Front-end
 
  <div>
   <a target="_blank" href="https://www.linkedin.com/in/cristiano-junior-508326b6/">
